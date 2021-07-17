@@ -13,8 +13,7 @@
 		BBAB0A2F26A1A18900D5DB27 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBAB0A2D26A1A18800D5DB27 /* Concentration.swift */; };
 		BBAB0A3226A1A1A100D5DB27 /* ConcentrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBAB0A3126A1A1A100D5DB27 /* ConcentrationViewController.swift */; };
 		BBAB0A3726A1A1C000D5DB27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBAB0A3626A1A1C000D5DB27 /* Main.storyboard */; };
-		BBE28CFB26A33570006D00B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE28CF926A33570006D00B7 /* AppDelegate.swift */; };
-		BBE28CFC26A33570006D00B7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE28CFA26A33570006D00B7 /* SceneDelegate.swift */; };
+		BBF84D8026A343BB00F2CF10 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF84D7F26A343BB00F2CF10 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +25,7 @@
 		BBAB0A2D26A1A18800D5DB27 /* Concentration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
 		BBAB0A3126A1A1A100D5DB27 /* ConcentrationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConcentrationViewController.swift; path = "../../../CS193P-Fall-2017-SOLUTION-iOS12-master/Concentration I/Concentration I struct/Concentration/ConcentrationViewController.swift"; sourceTree = "<group>"; };
 		BBAB0A3626A1A1C000D5DB27 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		BBE28CF926A33570006D00B7 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BBE28CFA26A33570006D00B7 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		BBF84D7F26A343BB00F2CF10 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				BBAB0A2426A1A07A00D5DB27 /* Info.plist */,
-				BBE28CF926A33570006D00B7 /* AppDelegate.swift */,
-				BBE28CFA26A33570006D00B7 /* SceneDelegate.swift */,
+				BBF84D7F26A343BB00F2CF10 /* AppDelegate.swift */,
 				BBAB0A3A26A1A22800D5DB27 /* Support files */,
 				BBAB0A2C26A1A18800D5DB27 /* Card.swift */,
 				BBAB0A3626A1A1C000D5DB27 /* Main.storyboard */,
@@ -151,8 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBE28CFC26A33570006D00B7 /* SceneDelegate.swift in Sources */,
-				BBE28CFB26A33570006D00B7 /* AppDelegate.swift in Sources */,
+				BBF84D8026A343BB00F2CF10 /* AppDelegate.swift in Sources */,
 				BBAB0A3226A1A1A100D5DB27 /* ConcentrationViewController.swift in Sources */,
 				BBAB0A2F26A1A18900D5DB27 /* Concentration.swift in Sources */,
 				BBAB0A2E26A1A18900D5DB27 /* Card.swift in Sources */,
